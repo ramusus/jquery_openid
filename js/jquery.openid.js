@@ -30,7 +30,7 @@ Martin Conte Mac Donell <Reflejo@gmail.com>
         },
         {
           name: 'Vkontakte',
-          onclick: vk_login,
+          onclick: $.vk.login,
           submit: false,
           label: null,
           big: true
